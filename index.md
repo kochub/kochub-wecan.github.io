@@ -18,3 +18,10 @@ I'm really excited to blog my journey on GitHub.com.
 <li><a href="https://github.com/{{ site.github_username
   }}">GitHub</a></li>
 </ul>
+## Project repos
+<ul>
+<li><a href="https://sarah-wecan.github.io/HelloWorld/">Hello\
+  World Project</a></li>
+<li><a href="https://github.com/thewecanzone/GitHubForDummiesReaders">\
+  GitHub For Dummies Repo</a></li> 
+</ul>
